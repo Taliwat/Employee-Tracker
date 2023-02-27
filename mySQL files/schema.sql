@@ -31,3 +31,8 @@ CREATE TABLE employee (
     REFERENCES employee(id)
     ON DELETE SET NULL
 );
+
+-- Write JOIN statements to combine table data once sourced schema.
+-- SELECT * FROM department
+-- RIGHT JOIN role ON department_id
+
