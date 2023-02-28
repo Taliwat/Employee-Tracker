@@ -1,6 +1,6 @@
 // call all the files and packages needed to start the app
 const mysql = require('mysql2');
-const cTable = require('console.table');
+const consTable = require('console.table');
 const inquirer = require("inquirer");
 
 // Connect to database
@@ -118,7 +118,7 @@ function addEmployee() {
         manager_id: res.manager
       }
     )
-    console.log('You have added ${res.firstName} ${res.lastName} to the database!');
+    console.log('You have added ${res.first_name} ${res.last_name} to the database!');
     menu()
   })
 }

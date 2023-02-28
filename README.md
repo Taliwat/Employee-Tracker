@@ -22,5 +22,5 @@ github.com/Taliwat, kalpha1865@gmail.com
 Repo URL: https://github.com/Taliwat/Employee-Tracker.git
 
 Video link: 
+https://drive.google.com/file/d/1V8W5aPLuI4Vfs0JEmCtZFSb5meLIIUaa/view
 
-Screenshot:
